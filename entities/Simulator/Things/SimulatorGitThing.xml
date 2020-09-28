@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:17:16.997Z"
+         lastModifiedDate="2020-09-28T09:12:25.998Z"
          name="SimulatorGitThing"
          projectName="Simulator"
          published="false"
-         tags=""
+         tags="Applications:DEV"
          thingTemplate="GitBackupTemplate"
          valueStream="">
             <avatar></avatar>
@@ -107,12 +107,12 @@
                             </BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            jdoe@ptc.com
+                            gd@ptc.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
                             <![CDATA[
-                            Vaibhav
+                            Ganesh
                             ]]>
                             </CommitName>
                             <FileRepository>
@@ -122,14 +122,14 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/Vaibhav2700/Test0301
+                            https://github.com/gkdarkunde/SEPT
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
                             <RepoPathName></RepoPathName>
                             <User>
                             <![CDATA[
-                            Vaibhav2700
+                            gkdarkunde
                             ]]>
                             </User>
                         </Row>

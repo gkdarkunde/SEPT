@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:35:39.138Z"
+         lastModifiedDate="2020-09-27T15:42:34.954Z"
          name="TestThing"
          projectName="Simulator"
          published="false"
-         tags=""
+         tags="Applications:DEV"
          thingTemplate="GenericThing"
          valueStream="">
             <avatar></avatar>
